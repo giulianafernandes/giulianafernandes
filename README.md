@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giulianafernandes
-- 🌱 I’m currently learning Python and Data Analytics
+- 🌱 I’m currently learning Python and Data Science
 - 📫 You can reach me in the e-mail ggiulianafernandes@gmail.com
 
 <!---
